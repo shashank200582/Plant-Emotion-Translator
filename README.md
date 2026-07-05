@@ -133,8 +133,6 @@ Project images, hardware setup, OLED outputs, and demonstration videos are avail
 
 Electronics and Telecommunication Engineering
 
-Chairman, CORSIT
-
 Siddaganga Institute of Technology
 
 ---
