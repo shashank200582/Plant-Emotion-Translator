@@ -92,7 +92,6 @@ Plant-Emotion-Translator
 ├── Firmware
 ├── Hardware
 ├── Images
-├── Videos
 ├── README.md
 └── LICENSE
 ```
